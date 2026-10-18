@@ -24,12 +24,40 @@ MEDIQUEST\Scripts
 
 4. commands
 
-````
+
 git init
 git add .
 git commit -m "Some message"
 git remote add origin ---url of git repo
 git push
 
+
+### MAKE REQUIREMENTS ####
+
 ``````
 
+
+python-dotenv
+
+langchain 
+langchain-core
+langchain-community
+
+# LLM PROVIDER
+
+langchain-groq
+langchain-text-splitters
+
+# VECTORDATABASE
+
+faiss-cpu
+
+#notebook
+jupyter
+ipykernel
+
+
+#UI 
+streamlit 
+
+````
