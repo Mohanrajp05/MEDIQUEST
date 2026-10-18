@@ -9,6 +9,7 @@ langchain-community
 
 langchain-groq
 langchain-text-splitters
+PyMuPDF
 
 # VECTORDATABASE
 faiss-cpu
