@@ -1,6 +1,7 @@
 
 python-dotenv
 
+#  A FRAMEWORK USED FOR BUILFING CHATBOTS AND LLM 
 langchain 
 langchain-core
 langchain-community
