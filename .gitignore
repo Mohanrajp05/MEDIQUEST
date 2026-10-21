@@ -1,2 +1,9 @@
 .env
 MEDIQUEST
+
+__pycache__/
+*.pyc
+
+# FAISS vector store index
+data/faiss_index
+
